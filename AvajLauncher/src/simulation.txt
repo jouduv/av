@@ -1,0 +1,6 @@
+Tower says: Baloon#B1(1) registered to weather tower.
+Tower says: JetPlane#J1(2) registered to weather tower.
+Tower says: Helicopter#H1(3) registered to weather tower.
+Baloon#B1(1): This is hot.
+JetPlane#J1(2): OMG! Winter is coming!
+Helicopter#H1(3): It's raining. Better watch out for lightnings
